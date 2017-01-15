@@ -1,3 +1,0 @@
-img/header-bak.jpg filter=lfs diff=lfs merge=lfs -text
-img/header.jpg filter=lfs diff=lfs merge=lfs -text
-img/walnut-farm-25-years.jpg filter=lfs diff=lfs merge=lfs -text
