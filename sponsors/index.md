@@ -5,39 +5,59 @@ title: Sponsorship Opportunities
 
 # Sponsorship Opportunities
 
-Walnut Farm Montessori School is the only accredited Montessori school in our state and offers an excellent educational opportunity for students in the NW Arkansas region. As a non-profit, our school relies on fundraising and strategic community partnerships to help educate the future leaders of our community.
+Walnut Farm Montessori School is celebrating our 25th year in Northwest Arkansas. As the only accredited Montessori school in our area, we have children ages 18 months to 9 years from diverse backgrounds, abilities, religions, races and cultures. In addition to a full Montessori Curriculum, we provide a variety of enrichment programs and activities to our students that are not available at any other school in the area. Walnut Farm Montessori is a non-profit school that relies on fundraising and strategic community partnerships to help educate the future leaders of our community. 
 
-## Premier Sponsor: $2,500
+## Presenting Sponsor: $5,000 (1 space available)
 
-* Free admission of one 4-man team ($500 value)
-* 8 tickets to the Crawfish Boil at Blu Market in Bentonville ($200 value)
-* Logo indicating "sponsored by" on digital media and school's Facebook page
-* Items can be placed in golfer swag bags
-* Company representative can host the awarding of prizes ceremony at Blu Market attended by golfers, family members, and the WFMS community of parents
+* Company Logo placed as Presenting Sponsor on all event marketing
+* Included in website communication and 4 mentions on social media
+* Recognized as 4 table sponsors at dinner, and 6 signs throughout golf course 
+* Presentation of awards at dinner event
+* On stage/screen recognition during dinner
+* May include item for swag bag
+* Two (2) 4-man teams for golf ($1,000 value)
+* 8 additional tickets to the dinner event ($200 value)
 
-## "Closest to the Pin" Sponsor: $1,250
 
-* Free admission of one 4-man team ($500 value)
-* 4 tickets to the Crawfish Boil at Blu Market in Bentonville ($100 value)
-* Logos on digital media and school's Facebook page
-* Presentation of the "closest to the pin" award to the winning golfer
-* Items can be placed in golfer swag bags
+## Gold Sponsors: $2,500 (2 spaces available)
 
-## "Longest Drive" Sponsor: $1,250
+* Company Logo placed as Gold Sponsor on all event marketing
+* Included in website communication and 2 mentions on social media
+* Recognized for 2 table sponsorships and 4 signs throughout golf course
+* On stage/screen recognition during dinner
+* May include item for swag bag
+* One (1) 4-man team for golf ($500 value)
+* 4 additional tickets to the dinner event ($100 value)
 
-* Free admission of one 4-man team ($500 value)
-* 4 tickets to the Crawfish Boil at Blu Market in Bentonville ($100 value)
-* Logos on digital media and school's Facebook page
-* Presentation of the "longest drive" award to the winning golfer
-* Items can be placed in golfer swag bags
 
-## Swag Bag Sponsor-Premium: $750
+## Hole Sponsors: $1,250 – (18 spaces available)
 
-* Free admission of one 4-man team ($500 value)
-* 4 tickets to the Crawfish Boil at Blu Market in Bentonville ($100 value)
-* Logos on school's Facebook page
-* Items placed in golfer swag bags
+Examples would be "closest to pin," "longest drive," etc...
 
-## Swag Bag Sponsor-Basic: 
+* Signage at chosen hole
+* On stage/screen recognition during dinner
+* May include item for swag bag
+* One (1) 4-man team for golf ($500 value)
+* 4 additional tickets to the dinner event ($100 value)
 
-* Items of your choice placed in golfer swag bags
+
+## Community Table Sponsor: $1,000
+
+* On stage/screen recognition during dinner
+* One (1) 4-man team for golf ($500 value)
+* 6 additional tickets to the dinner event ($150 value)
+
+## Family Table Sponsor: $500
+
+* On stage/screen recognition during dinner
+* 6 additional tickets to the dinner event ($150 value)
+
+## Additional Event Sponsorships Available
+
+* Breakfast and Lunch
+* Photo Booth
+* Bounce House
+* Swag Bags and items included
+* Silent Auction items
+* Tables
+* Kid Course Putting Green
