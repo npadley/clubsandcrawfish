@@ -1,0 +1,43 @@
+---
+layout: page
+title: Sponsorship Opportunities
+---
+
+<h1>Sponsorship Opportunities</h1>
+
+<p>Walnut Farm Montessori School is celebrating our 25th year in Northwest Arkansas. As the only accredited Montessori school in our area, we have children ages 18 months to 9 years from diverse backgrounds, abilities, religions, races and cultures. In addition to a full Montessori Curriculum, we provide a variety of enrichment programs and activities to our students that are not available at any other school in the area. Walnut Farm Montessori is a non-profit school that relies on fundraising and strategic community partnerships to help educate the future leaders of our community.</p>
+
+
+{% for sponsor in site.sponsors %}
+
+{% assign is_odd = forloop.index0 | modulo: 2 %}
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+    <div class="col-md-7 {% if is_odd > 0 %}col-md-push-5{% endif %}">
+        <h2 class="featurette-heading">{{ sponsor.type }}: 
+          	<span class="text-muted">{{ sponsor.amount }} 
+          		{% if sponsor.spaces %}
+          			({{ sponsor.spaces }} available)
+          		{% endif %}
+          	</span>
+          </h2>
+        <p class="lead">{{ sponsor.content }}</p>
+    </div>
+    <div class="col-md-5 {% if is_odd > 0 %}col-md-pull-7{% endif %}">
+        <img class="featurette-image img-responsive center-block" src="{{site.baseurl}}{{ sponsor.image }}">
+    </div>
+</div>
+
+{% endfor %}
+
+<hr />
+<div class="text-center">
+<h2>Additional Event Sponsorships Available</h2>
+<p>Breakfast and Lunch</p>
+<p>Photo Booth</p>
+<p>Bounce House</p>
+<p>Swag Bags and items included</p>
+<p>Silent Auction items</p>
+<p>Tables</p>
+<p>Kid Course Putting Green</p></div>

@@ -9,3 +9,6 @@ instagram_username: "walnutfarm_montessori"
 facebook_username: "WalnutFarm"
 
 repository: npadley/clubsandcrawfish
+
+collections:
+  - sponsors
