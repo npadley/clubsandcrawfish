@@ -1,11 +1,9 @@
 ---
-type: Hole Sponsors
+type: Longest Drive
 amount: $1,250
-spaces: 18 spaces
+spaces: 1 space
 image: /img/sponsors/hole.jpg
 ---
-
-Examples would be "closest to pin," "longest drive," etc...
 
 * Signage at chosen hole
 * On stage/screen recognition during dinner
