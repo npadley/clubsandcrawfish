@@ -2,7 +2,7 @@
 type: Longest Drive
 amount: $1,250
 spaces: 1 space
-image: /img/sponsors/hole.jpg
+image: /img/sponsors/drive.jpg
 ---
 
 * Signage at chosen hole

@@ -2,7 +2,7 @@
 type: Closest to the Pin
 amount: $1,250
 spaces: 1 space
-image: /img/sponsors/hole.jpg
+image: /img/sponsors/closest-to-pin.jpg
 ---
 
 * Signage at chosen hole
