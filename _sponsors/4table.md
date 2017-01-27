@@ -6,4 +6,4 @@ image: /img/sponsors/table.jpg
 
 * On stage/screen recognition during dinner
 * One (1) 4-man team for golf ($500 value)
-* 6 additional tickets to the dinner event ($150 value)
+* 6 tickets to the dinner event ($150 value)

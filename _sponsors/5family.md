@@ -5,4 +5,4 @@ image: /img/sponsors/family.jpg
 ---
 
 * On stage/screen recognition during dinner
-* 6 additional tickets to the dinner event ($150 value)
+* 6 tickets to the dinner event ($150 value)
