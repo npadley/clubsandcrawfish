@@ -20,7 +20,8 @@ collections:
     label: "Sponsors"
     folder: "/_sponsors"
     fields:
-        - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-        - {label: "Permalink", name: "permalink", widget: "string"}
-        - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+        - {label: "Type", name: "type", widget: "string", tagname: "h1"}
+        - {label: "Amount", name: "amount", widget: "string"}
+        - {label: "Spaces", name: "spaces", widget: "number"}
+        - {label: "Image", name: "image", widget: "image"}
         - {label: "Body", name: "body", widget: "markdown"}
