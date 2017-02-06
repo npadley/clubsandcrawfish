@@ -5,7 +5,26 @@
 
 <body id="page-top">
   {% include nav.html %}
-  {% include page-content.html %}
+  
+	<section id="page-content">
+	    <div class="container">
+	        <div class="row">
+	        	{% if page.image %}
+		       	<div class="col-md-8">
+	                {{ content }}
+	            </div>
+	            <div class="col-md-4">
+	            	<img src="{{ page.image }}" alt="" class="img-responsive">
+	        	</div>
+	        	{% else %}
+	            <div class="col-xs-12">
+	                {{ content }}
+	            </div>
+	            {% endif %}
+	        </div>
+	    </div>
+	</section>
+
   {% include sign-up.html %}
   {% include contact.html %}
   {% include scripts.html %}

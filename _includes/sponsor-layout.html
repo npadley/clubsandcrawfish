@@ -1,0 +1,22 @@
+{% for sponsor in site.sponsors %}
+
+{% assign is_odd = forloop.index0 | modulo: 2 %}
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+    <div class="col-md-7 {% if is_odd > 0 %}col-md-push-5{% endif %}">
+        <h2 class="featurette-heading">{{ sponsor.type }}: 
+          	<span class="text-muted">{{ sponsor.amount }} 
+          		{% if sponsor.spaces %}
+          			({{ sponsor.spaces }} spaces available)
+          		{% endif %}
+          	</span>
+          </h2>
+        <p class="lead">{{ sponsor.content }}</p>
+    </div>
+    <div class="col-md-5 {% if is_odd > 0 %}col-md-pull-7{% endif %}">
+        <img class="featurette-image img-responsive center-block" src="{{site.baseurl}}{{ sponsor.image }}" alt="Sponsor Image">
+    </div>
+</div>
+
+{% endfor %}

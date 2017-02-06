@@ -1,6 +1,6 @@
 # Site settings
 title: "Clubs and Crawfish"
-email: clubsandcrawfish@gmail.com
+email: "clubsandcrawfish@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "//clubsandcrawfish.com" # the base hostname & protocol for your site
@@ -12,3 +12,6 @@ repository: npadley/clubsandcrawfish
 
 collections:
   - sponsors
+
+gems:
+  - jekyll-email-protect
