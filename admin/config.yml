@@ -8,7 +8,10 @@ media_folder: "img/uploads"
 collections:
   - name: "page"
     label: "Page"
-    files: ["pages/parents.md","pages/teams.md","pages/contact.md"]
+    files:
+        - "pages/parents.md"
+        - "pages/teams.md"
+        - "pages/contact.md"
     create: true
     fields:
         - {label: "Title", name: "title", widget: "string", tagname: "h1"}
