@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: npadley/clubsandcrawfish
+  branch: master
+
+media_folder: "img/uploads"
+
+collections:
+  - name: "page"
+  label: "Page"
+  folder: "/pages"
+  create: true
+  fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
