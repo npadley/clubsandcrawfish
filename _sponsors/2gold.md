@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2017-02-06 15:30:09'
 type: Gold Sponsor
-amount: $2,500
+amount: "$2,500"
 spaces: 2 spaces
-image: /img/sponsors/gold.jpg
+image: "/img/sponsors/gold.jpg"
 ---
 
 * Company logo placed as Gold Sponsor on all event marketing

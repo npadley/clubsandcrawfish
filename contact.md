@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Sponsorship Opportunities
-permalink: /contact/
+layout: page
+permalink: "/contact/"
 ---
 
 <div class="text-center">

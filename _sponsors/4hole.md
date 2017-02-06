@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2017-02-06 15:30:09'
 type: Hole Sponsors
-amount: $1,250
+amount: "$1,250"
 spaces: 16 spaces
-image: /img/sponsors/hole.jpg
+image: "/img/sponsors/hole.jpg"
 ---
 
 * Signage at chosen hole

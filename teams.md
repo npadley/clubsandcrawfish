@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Sponsorship Opportunities
-permalink: /teams/
+layout: page
+permalink: "/teams/"
 ---
 
 # Teams

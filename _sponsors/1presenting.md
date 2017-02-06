@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2017-02-06 15:30:09'
 type: Presenting Sponsor
-amount: $5,000
+amount: "$5,000"
 spaces: 1 space
-image: /img/sponsors/presenting.jpg
+image: "/img/sponsors/presenting.jpg"
 ---
 
 * Company logo placed as Presenting Sponsor on all event marketing

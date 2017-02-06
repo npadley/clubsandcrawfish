@@ -1,8 +1,10 @@
 ---
+title: 
+date: '2017-02-06 15:30:09'
 type: Closest to the Pin
-amount: $1,250
+amount: "$1,250"
 spaces: 1 space
-image: /img/sponsors/closest-to-pin.jpg
+image: "/img/sponsors/closest-to-pin.jpg"
 ---
 
 * Signage at chosen hole
