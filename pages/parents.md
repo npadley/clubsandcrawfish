@@ -4,6 +4,4 @@ title: Parent Resources
 permalink: /resources/
 ---
 
-# Teams
-
-Teams to be announced once registration closes!
+Want to help us find a sponsor? [Click here](https://www.clubsandcrawfish.com/assets/CCSponsorLetter.pdf) to download a form letter.
