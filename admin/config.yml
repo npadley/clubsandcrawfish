@@ -9,9 +9,18 @@ collections:
   - name: "page"
     label: "Page"
     folder: "/pages"
+    files: "*.md"
     create: true
     fields:
         - {label: "Title", name: "title", widget: "string", tagname: "h1"}
         - {label: "Permalink", name: "permalink", widget: "string"}
-        - {label: "Body", name: "body", widget: "markdown"}
         - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+        - {label: "Body", name: "body", widget: "markdown"}
+  - name: "sponsors"
+    label: "Sponsors"
+    folder: "/_sponsors"
+    fields:
+        - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+        - {label: "Permalink", name: "permalink", widget: "string"}
+        - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+        - {label: "Body", name: "body", widget: "markdown"}
