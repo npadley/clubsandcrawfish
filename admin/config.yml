@@ -8,8 +8,7 @@ media_folder: "img/uploads"
 collections:
   - name: "page"
     label: "Page"
-    folder: "/pages"
-    files: "*.md"
+    files: ["pages/parents.md","pages/teams.md","pages/contact.md"]
     create: true
     fields:
         - {label: "Title", name: "title", widget: "string", tagname: "h1"}
@@ -18,7 +17,7 @@ collections:
         - {label: "Body", name: "body", widget: "markdown"}
   - name: "sponsors"
     label: "Sponsors"
-    folder: "/_sponsors"
+    folder: "_sponsors"
     fields:
         - {label: "Type", name: "type", widget: "string", tagname: "h1"}
         - {label: "Amount", name: "amount", widget: "string"}
