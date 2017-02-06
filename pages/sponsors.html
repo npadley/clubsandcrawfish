@@ -18,8 +18,8 @@ permalink: "/sponsors/"
     <div class="col-md-7 {% if is_odd > 0 %}col-md-push-5{% endif %}">
         <h2 class="featurette-heading">{{ sponsor.type }}: 
           	<span class="text-muted">{{ sponsor.amount }} 
-          		{% if sponsor.spaces %}
-          			({{ sponsor.spaces }} available)
+          		{% if sponsor.spaces > '0' %}
+          			({{ sponsor.spaces }} spaces available)
           		{% endif %}
           	</span>
           </h2>

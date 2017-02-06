@@ -1,9 +1,7 @@
 ---
-title: 
-date: '2017-02-06 15:30:09'
 type: Longest Drive
 amount: "$1,250"
-spaces: 1 space
+spaces: 1
 image: "/img/sponsors/drive.jpg"
 ---
 

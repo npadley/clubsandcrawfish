@@ -1,6 +1,4 @@
 ---
-title: 
-date: '2017-02-06 15:30:09'
 type: Family Table Sponsor
 amount: "$500"
 image: "/img/sponsors/family.jpg"

@@ -1,9 +1,7 @@
 ---
-title: 
-date: '2017-02-06 15:30:09'
 type: Presenting Sponsor
 amount: "$5,000"
-spaces: 1 space
+spaces: 1
 image: "/img/sponsors/presenting.jpg"
 ---
 
