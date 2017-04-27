@@ -1,6 +1,6 @@
 ---
 type: Hole Sponsors
-amount: "$1,250"
+amount: ""
 spaces: 16
 image: "/img/sponsors/hole.jpg"
 ---

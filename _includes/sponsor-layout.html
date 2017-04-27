@@ -1,22 +1,35 @@
 {% for sponsor in site.sponsors %}
 
+{% unless sponsor.amount == "" %}
+
 {% assign is_odd = forloop.index0 | modulo: 2 %}
 
 <hr class="featurette-divider" />
 <div class="row featurette">
-    <div class="col-md-7 {% if is_odd > 0 %}col-md-push-5{% endif %}">
+    <!-- <div class="col-md-7 {% if is_odd > 0 %}col-md-push-5{% endif %}"> -->
+    <div class="col-md-7">
         <h2 class="featurette-heading">{{ sponsor.type }}: 
+
+            {% if sponsor.name %}
+              {{ sponsor.name }}
+
+            {% else %}  
           	<span class="text-muted">{{ sponsor.amount }} 
           		{% if sponsor.spaces %}
           			({{ sponsor.spaces }} spaces available)
           		{% endif %}
           	</span>
+
+            {% endif %}
           </h2>
         <p class="lead">{{ sponsor.content }}</p>
     </div>
-    <div class="col-md-5 {% if is_odd > 0 %}col-md-pull-7{% endif %}">
+    <!-- <div class="col-md-5 {% if is_odd > 0 %}col-md-pull-7{% endif %}"> -->
+    <div class="col-md-5">
         <img class="featurette-image img-responsive center-block" src="{{site.baseurl}}{{ sponsor.image }}" alt="Sponsor Image">
     </div>
 </div>
+
+{% endunless %}
 
 {% endfor %}

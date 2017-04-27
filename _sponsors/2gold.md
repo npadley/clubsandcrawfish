@@ -1,6 +1,6 @@
 ---
 type: Gold Sponsor
-amount: "$2,500"
+amount: ""
 spaces: 2
 image: "/img/sponsors/gold.jpg"
 ---

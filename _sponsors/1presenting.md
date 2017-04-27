@@ -1,6 +1,6 @@
 ---
 type: Presenting Sponsor
-amount: "$5,000"
+amount: ""
 spaces: 1
 image: "/img/sponsors/presenting.jpg"
 ---

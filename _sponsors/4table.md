@@ -1,7 +1,8 @@
 ---
 type: Community Table Sponsor
 amount: "$1,000"
-image: "/img/sponsors/table.jpg"
+image: "/img/sponsors/first-security.jpg"
+name: First Security
 ---
 
 * On stage/screen recognition during dinner

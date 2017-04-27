@@ -2,7 +2,8 @@
 type: Longest Drive
 amount: "$1,250"
 spaces: 1
-image: "/img/sponsors/drive.jpg"
+image: "/img/sponsors/keypoint-church.png"
+name: Keypoint Church
 ---
 
 * Signage at chosen hole

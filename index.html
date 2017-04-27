@@ -18,75 +18,34 @@ layout: front
     </div>
 </header>
 
-<section class="bg-primary" id="about">
-    <div class="container">
-        <div class="row flat">
-            <div class="col-lg-4 col-md-4 col-xs-12">
-                <ul class="plan plan1">
-                    <li class="plan-name">
-                        Sponsorship Opportunities
-                    </li>
-                    <li class="plan-price">
-                        <strong>Be a Premiere Sponsor</strong>
-                    </li>
-                    <li><strong>Gold Sponsorships</strong></li>
-                    <li>
-                        <strong>Hole Sponsorships</strong>
-                    </li>
-                    <li><strong>Table Sponsorships</strong></li>
-                    <li>
-                        <strong>Swag Sponsor</strong>
-                    </li>
-                    <li class="plan-action">
-                        <a href="https://squareup.com/store/walnut-farm-montessori-school-inc" class="btn btn-danger btn-lg">Sign Up</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12">
-                <ul class="plan plan2 featured">
-                    <li class="plan-name">
-                        Golfer Registration
-                    </li>
-                    <li class="plan-price">
-                        <strong>Team and Individual Registration</strong>
-                    </li>
-                    <li>
-                        <strong>Includes Dinner Ticket</strong>
-                    </li>
-                    <li>
-                        <strong>Swag Bag</strong>
-                    </li>
-                    <li><strong>$1,000 first prize</strong></li>
-                    <li><strong>Closest to hole prize</strong></li>
-                    <li><strong>Longest drive prize</strong></li>
-                    <li class="plan-action">
-                        <a href="https://squareup.com/store/walnut-farm-montessori-school-inc" class="btn btn-danger btn-lg">Sign Up</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12">
-                <ul class="plan plan3">
-                    <li class="plan-name">
-                        Dinner Ticket
-                    </li>
-                    <li class="plan-price">
-                        <strong>Family and Children Tickets</strong>
-                    </li>
-                    <li>
-                        <strong>Includes Dinner Ticket</strong>
-                    </li>
-                    <li><strong>Access to Silent Auction</strong></li>
-                    <li><strong>Kids Putting Green</strong></li>
-                    <li>
-                        <strong>Starts at 6pm</strong>
-                    </li>
-                    <li class="plan-action">
-                        <a href="https://squareup.com/store/walnut-farm-montessori-school-inc" class="btn btn-danger btn-lg">Sign Up</a>
-                    </li>
-                </ul>
-            </div>
+<section class="no-padding" id="portfolio">
+    <div class="container-fluid">
+        <div class="row no-gutter">
+
+            {% for sponsor in site.sponsors %}
+
+            {% if sponsor.name %}
+
+                <div class="col-lg-4 col-sm-6">
+                    <div class="portfolio-box">
+                        <img src="{{site.baseurl}}{{ sponsor.image }}" class="img-responsive" alt="{{ sponsor.type }}">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    {{ sponsor.name }}
+                                </div>
+                                <div class="project-name">
+                                    {{ sponsor.type }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+
+            {% endfor %}
+
         </div>
-        <!-- /container -->
     </div>
 </section>
 

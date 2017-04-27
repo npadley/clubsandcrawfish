@@ -2,7 +2,8 @@
 type: Closest to the Pin
 amount: "$1,250"
 spaces: 1
-image: "/img/sponsors/closest-to-pin.jpg"
+image: "/img/sponsors/kohls.jpg"
+name: Kohl's
 ---
 
 * Signage at chosen hole
