@@ -12,6 +12,7 @@ repository: npadley/clubsandcrawfish
 
 collections:
   - sponsors
+  - teams
 
 gems:
   - jekyll-email-protect

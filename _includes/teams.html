@@ -1,0 +1,15 @@
+<div class="row">
+
+{% for team in site.teams %}
+
+<div class="col-sm-4">
+
+<h2 class="text-primary">{{ team.name }}</h2>
+<p>Starting hole: {{ team.hole }}</p>
+{{ team.content }}
+
+</div>
+
+{% endfor %}
+
+</div>
